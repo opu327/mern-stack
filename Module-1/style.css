@@ -1,0 +1,19 @@
+.div2{
+
+ height: 200px;
+    width: 200px;
+    background-color: rgba(255, 202, 9, 0.874);
+    padding: 40px ;
+}
+       
+    .div3{
+        height: 100%;
+        width: 100%;
+        background:rgb(0, 0, 0);
+        color: white;
+        font-size:20px;
+       padding: 20px;
+    }
+.div3 span{
+   color:red;
+}
